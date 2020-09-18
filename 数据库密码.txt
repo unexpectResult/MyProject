@@ -1,6 +1,0 @@
-mysql  use:root
-          psw:root
-oracle   	user:system
-	psw:729729
-RDS    user:root
-           psw:yxbddjj!729
